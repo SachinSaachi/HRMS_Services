@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "PQE7R+xe6E6VkPV158mAZ5dElAHpe02gZ5ZxR8YHYoI=",
+  "Source": "HRMS_Service",
+  "BasePath": "_content/HRMS_Service",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

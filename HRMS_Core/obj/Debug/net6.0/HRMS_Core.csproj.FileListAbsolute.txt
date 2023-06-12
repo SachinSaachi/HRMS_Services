@@ -1,0 +1,17 @@
+D:\Rajesh Code\My APP\HRMS_Service\HRMS_Core\obj\Debug\net6.0\HRMS_Core.csproj.AssemblyReference.cache
+D:\Rajesh Code\My APP\HRMS_Service\HRMS_Core\obj\Debug\net6.0\HRMS_Core.GeneratedMSBuildEditorConfig.editorconfig
+D:\Rajesh Code\My APP\HRMS_Service\HRMS_Core\obj\Debug\net6.0\HRMS_Core.AssemblyInfoInputs.cache
+D:\Rajesh Code\My APP\HRMS_Service\HRMS_Core\obj\Debug\net6.0\HRMS_Core.AssemblyInfo.cs
+D:\Rajesh Code\My APP\HRMS_Service\HRMS_Core\obj\Debug\net6.0\HRMS_Core.csproj.CoreCompileInputs.cache
+D:\Rajesh Code\My APP\HRMS_Service\HRMS_Core\bin\Debug\net6.0\HRMS_Core.deps.json
+D:\Rajesh Code\My APP\HRMS_Service\HRMS_Core\bin\Debug\net6.0\HRMS_Core.dll
+D:\Rajesh Code\My APP\HRMS_Service\HRMS_Core\bin\Debug\net6.0\HRMS_Core.pdb
+D:\Rajesh Code\My APP\HRMS_Service\HRMS_Core\bin\Debug\net6.0\Common.dll
+D:\Rajesh Code\My APP\HRMS_Service\HRMS_Core\bin\Debug\net6.0\Common.pdb
+D:\Rajesh Code\My APP\HRMS_Service\HRMS_Core\obj\Debug\net6.0\HRMS_Core.csproj.CopyComplete
+D:\Rajesh Code\My APP\HRMS_Service\HRMS_Core\obj\Debug\net6.0\HRMS_Core.dll
+D:\Rajesh Code\My APP\HRMS_Service\HRMS_Core\obj\Debug\net6.0\refint\HRMS_Core.dll
+D:\Rajesh Code\My APP\HRMS_Service\HRMS_Core\obj\Debug\net6.0\HRMS_Core.pdb
+D:\Rajesh Code\My APP\HRMS_Service\HRMS_Core\obj\Debug\net6.0\ref\HRMS_Core.dll
+D:\Rajesh Code\My APP\HRMS_Service\HRMS_Core\bin\Debug\net6.0\appsettings.Development.json
+D:\Rajesh Code\My APP\HRMS_Service\HRMS_Core\bin\Debug\net6.0\appsettings.json
